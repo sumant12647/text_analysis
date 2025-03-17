@@ -20,7 +20,7 @@ def sentencesContaining(text: str, token: str) -> list:
 
 # Test function with the exact text
 if __name__ == "__main__":
-    text = "Hello, my name is Raja Babu Ray Yadav and my friend's name is Abishek."
+    text = "Hello, my name is sumant kumar Yadav and my friend's name is nabin."
     
     # Running each function and printing the results
     print("Total tokens:", countTokens(text))                        # Total tokens in the text
